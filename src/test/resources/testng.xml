@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+
+<test name="Facebook Friends">
+    <classes>
+        <class name="com.alimun.keywordframework.FaceBookFriends" ></class>  
+    </classes>
+</test>
+
+</suite>

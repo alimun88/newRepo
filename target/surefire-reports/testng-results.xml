@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite" duration-ms="81161" started-at="2016-04-16T05:06:14Z" finished-at="2016-04-16T05:07:35Z">
+    <groups>
+    </groups>
+    <test name="American Golf PutterSum" duration-ms="81161" started-at="2016-04-16T05:06:14Z" finished-at="2016-04-16T05:07:35Z">
+      <class name="com.alimun.keywordframework.AmericanGolfPutterSum">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.alimun.keywordframework.AmericanGolfPutterSum@6cd8737]" name="openBrowser" is-config="true" duration-ms="13826" started-at="2016-04-16T01:06:14Z" finished-at="2016-04-16T01:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="sumOfGolfPutters()[pri:0, instance:com.alimun.keywordframework.AmericanGolfPutterSum@6cd8737]" name="sumOfGolfPutters" duration-ms="67302" started-at="2016-04-16T01:06:28Z" finished-at="2016-04-16T01:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumOfGolfPutters -->
+        <test-method status="PASS" signature="EndTestNQuitBrow()[pri:0, instance:com.alimun.keywordframework.AmericanGolfPutterSum@6cd8737]" name="EndTestNQuitBrow" is-config="true" duration-ms="17" started-at="2016-04-16T01:07:35Z" finished-at="2016-04-16T01:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTestNQuitBrow -->
+      </class> <!-- com.alimun.keywordframework.AmericanGolfPutterSum -->
+    </test> <!-- American Golf PutterSum -->
+  </suite> <!-- Test Suite -->
+</testng-results>

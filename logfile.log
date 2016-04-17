@@ -1,0 +1,553 @@
+2016-04-15 23:51:53,020 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-15 23:51:53,021 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-15 23:51:53,021 INFO  [devpinoyLogger] $$$$$$$$$$$$$$$$$$$$$                 FaceBookFriends List       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-15 23:51:53,021 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-15 23:51:53,021 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-15 23:51:56,995 INFO  [devpinoyLogger] Opening the browser: Mozilla 
+2016-04-15 23:52:10,859 INFO  [devpinoyLogger] Logging in to Facebook account 
+2016-04-15 23:52:12,936 INFO  [devpinoyLogger] Entering the user email: ayon88@hotmail.com 
+2016-04-15 23:52:13,413 INFO  [devpinoyLogger] Entering the encoded password : TGl0dG9uNTc2Nw== 
+2016-04-15 23:52:36,661 INFO  [devpinoyLogger] Clicking into my profile link 
+2016-04-15 23:52:39,982 INFO  [devpinoyLogger] Clicking into my friends link 
+2016-04-15 23:53:18,193 INFO  [devpinoyLogger] Total no of friends is :140 
+2016-04-15 23:53:18,193 INFO  [devpinoyLogger] Extracting and Printing the friends name 
+2016-04-15 23:53:18,223 INFO  [devpinoyLogger] Friend Name 0) is: Mohammad Haque 
+2016-04-15 23:53:18,248 INFO  [devpinoyLogger] Friend Name 1) is: Sushmita Samad 
+2016-04-15 23:53:18,273 INFO  [devpinoyLogger] Friend Name 2) is: Shahid Haque 
+2016-04-15 23:53:18,297 INFO  [devpinoyLogger] Friend Name 3) is: Segufta Samad 
+2016-04-15 23:53:18,317 INFO  [devpinoyLogger] Friend Name 4) is: Naznin Haque 
+2016-04-15 23:53:18,336 INFO  [devpinoyLogger] Friend Name 5) is: Shara Rahman 
+2016-04-15 23:53:18,361 INFO  [devpinoyLogger] Friend Name 6) is: Kazi Aynul Haque 
+2016-04-15 23:53:18,383 INFO  [devpinoyLogger] Friend Name 7) is: Dewan Ahsan Kabir 
+2016-04-15 23:53:18,403 INFO  [devpinoyLogger] Friend Name 8) is: Afsana Ali 
+2016-04-15 23:53:18,424 INFO  [devpinoyLogger] Friend Name 9) is: Kaiser Khan 
+2016-04-15 23:53:18,447 INFO  [devpinoyLogger] Friend Name 10) is: Afsar Ali 
+2016-04-15 23:53:18,468 INFO  [devpinoyLogger] Friend Name 11) is: Tahseen Ahmed 
+2016-04-15 23:53:18,489 INFO  [devpinoyLogger] Friend Name 12) is: Naushin Laila 
+2016-04-15 23:53:18,508 INFO  [devpinoyLogger] Friend Name 13) is: Sanjeena Alam 
+2016-04-15 23:53:18,529 INFO  [devpinoyLogger] Friend Name 14) is: Saifur Chowdhury 
+2016-04-15 23:53:18,545 INFO  [devpinoyLogger] Friend Name 15) is: Syeda Shubhrata Hussain Tuli 
+2016-04-15 23:53:18,565 INFO  [devpinoyLogger] Friend Name 16) is: Obayed Azman 
+2016-04-15 23:53:18,587 INFO  [devpinoyLogger] Friend Name 17) is: Anar Chowdhury 
+2016-04-15 23:53:18,607 INFO  [devpinoyLogger] Friend Name 18) is: Helen Samad 
+2016-04-15 23:53:18,627 INFO  [devpinoyLogger] Friend Name 19) is: Munira Haq 
+2016-04-15 23:53:18,648 INFO  [devpinoyLogger] Friend Name 20) is: Manjan Ahmed Chowdhury 
+2016-04-15 23:53:18,670 INFO  [devpinoyLogger] Friend Name 21) is: Tanvina Sharmin 
+2016-04-15 23:53:18,690 INFO  [devpinoyLogger] Friend Name 22) is: Ghulam K. Limon 
+2016-04-15 23:53:18,709 INFO  [devpinoyLogger] Friend Name 23) is: Faisal Rashid 
+2016-04-15 23:53:18,727 INFO  [devpinoyLogger] Friend Name 24) is: Noor Jinnah 
+2016-04-15 23:53:18,747 INFO  [devpinoyLogger] Friend Name 25) is: Bakul Chowdhury 
+2016-04-15 23:53:18,765 INFO  [devpinoyLogger] Friend Name 26) is: Bashir Ahmed 
+2016-04-15 23:53:18,785 INFO  [devpinoyLogger] Friend Name 27) is: Nur Taraky 
+2016-04-15 23:53:18,802 INFO  [devpinoyLogger] Friend Name 28) is: Shamimara Tanno 
+2016-04-15 23:53:18,818 INFO  [devpinoyLogger] Friend Name 29) is: Mehrin Haque 
+2016-04-15 23:53:18,834 INFO  [devpinoyLogger] Friend Name 30) is: Kazi Motiur 
+2016-04-15 23:53:18,854 INFO  [devpinoyLogger] Friend Name 31) is: Saadat Hossain Saif 
+2016-04-15 23:53:18,873 INFO  [devpinoyLogger] Friend Name 32) is: Zeeshan Ahmed 
+2016-04-15 23:53:18,889 INFO  [devpinoyLogger] Friend Name 33) is: Nasrin Biplob 
+2016-04-15 23:53:18,908 INFO  [devpinoyLogger] Friend Name 34) is: Rebecca Diaz Kabir 
+2016-04-15 23:53:18,926 INFO  [devpinoyLogger] Friend Name 35) is: Asma Begum 
+2016-04-15 23:53:18,943 INFO  [devpinoyLogger] Friend Name 36) is: Farzana Khan 
+2016-04-15 23:53:18,958 INFO  [devpinoyLogger] Friend Name 37) is: Sharif Islam 
+2016-04-15 23:53:18,977 INFO  [devpinoyLogger] Friend Name 38) is: Afsana Alam 
+2016-04-15 23:53:18,997 INFO  [devpinoyLogger] Friend Name 39) is: Tabassum Haque 
+2016-04-15 23:53:19,013 INFO  [devpinoyLogger] Friend Name 40) is: Mansur Chowdhury 
+2016-04-15 23:53:19,031 INFO  [devpinoyLogger] Friend Name 41) is: Abu Liaquat Hussain 
+2016-04-15 23:53:19,051 INFO  [devpinoyLogger] Friend Name 42) is: Monir Ahmed 
+2016-04-15 23:53:19,067 INFO  [devpinoyLogger] Friend Name 43) is: Shukria Begum 
+2016-04-15 23:53:19,083 INFO  [devpinoyLogger] Friend Name 44) is: Nahid Fatima Tanni 
+2016-04-15 23:53:19,099 INFO  [devpinoyLogger] Friend Name 45) is: Mehtab Jab 
+2016-04-15 23:53:19,116 INFO  [devpinoyLogger] Friend Name 46) is: Shamim Chowdhury 
+2016-04-15 23:53:19,136 INFO  [devpinoyLogger] Friend Name 47) is: Selina Chowdhury 
+2016-04-15 23:53:19,154 INFO  [devpinoyLogger] Friend Name 48) is: ?ajïa Afrî? Qurêshï 
+2016-04-15 23:53:19,171 INFO  [devpinoyLogger] Friend Name 49) is: Jacob Chowdhury 
+2016-04-15 23:53:19,193 INFO  [devpinoyLogger] Friend Name 50) is: Wahida Khan 
+2016-04-15 23:53:19,210 INFO  [devpinoyLogger] Friend Name 51) is: Rahman Kazimashiur 
+2016-04-15 23:53:19,227 INFO  [devpinoyLogger] Friend Name 52) is: Shafeen Islam 
+2016-04-15 23:53:19,242 INFO  [devpinoyLogger] Friend Name 53) is: Masuma Begum 
+2016-04-15 23:53:19,260 INFO  [devpinoyLogger] Friend Name 54) is: Nahrin Kawsar Hima 
+2016-04-15 23:53:19,279 INFO  [devpinoyLogger] Friend Name 55) is: Farhana Khan 
+2016-04-15 23:53:19,298 INFO  [devpinoyLogger] Friend Name 56) is: Hamza Choudhury 
+2016-04-15 23:53:19,316 INFO  [devpinoyLogger] Friend Name 57) is: Nazma Rasul 
+2016-04-15 23:53:19,337 INFO  [devpinoyLogger] Friend Name 58) is: Saathi Ksp 
+2016-04-15 23:53:19,353 INFO  [devpinoyLogger] Friend Name 59) is: Tamanna Alam 
+2016-04-15 23:53:19,373 INFO  [devpinoyLogger] Friend Name 60) is: Shakhawat Ahmed 
+2016-04-15 23:53:19,387 INFO  [devpinoyLogger] Friend Name 61) is: Modina Begum 
+2016-04-15 23:53:19,405 INFO  [devpinoyLogger] Friend Name 62) is: Zeanat Parven 
+2016-04-15 23:53:19,423 INFO  [devpinoyLogger] Friend Name 63) is: Tanzeena Alam 
+2016-04-15 23:53:19,443 INFO  [devpinoyLogger] Friend Name 64) is: Ruksana Kabir 
+2016-04-15 23:53:19,461 INFO  [devpinoyLogger] Friend Name 65) is: Adil Shah 
+2016-04-15 23:53:19,479 INFO  [devpinoyLogger] Friend Name 66) is: Farhad Zahir Ahmed 
+2016-04-15 23:53:19,498 INFO  [devpinoyLogger] Friend Name 67) is: Aftab Hussain Iqbal 
+2016-04-15 23:53:19,513 INFO  [devpinoyLogger] Friend Name 68) is: Saadat Aurnob Syed 
+2016-04-15 23:53:19,529 INFO  [devpinoyLogger] Friend Name 69) is: Altaf Hussain Iqbal 
+2016-04-15 23:53:19,546 INFO  [devpinoyLogger] Friend Name 70) is: Azreen Karim 
+2016-04-15 23:53:19,566 INFO  [devpinoyLogger] Friend Name 71) is: Mohammed Chowdhury 
+2016-04-15 23:53:19,592 INFO  [devpinoyLogger] Friend Name 72) is: Adnan Haque 
+2016-04-15 23:53:19,609 INFO  [devpinoyLogger] Friend Name 73) is: Saleh Choudhury 
+2016-04-15 23:53:19,630 INFO  [devpinoyLogger] Friend Name 74) is: Aisha Umme Rahina Hussain-Salam 
+2016-04-15 23:53:19,648 INFO  [devpinoyLogger] Friend Name 75) is: Nadira Anis 
+2016-04-15 23:53:19,665 INFO  [devpinoyLogger] Friend Name 76) is: Jacob Chowdhury 
+2016-04-15 23:53:19,681 INFO  [devpinoyLogger] Friend Name 77) is: Ferdous Khan 
+2016-04-15 23:53:19,696 INFO  [devpinoyLogger] Friend Name 78) is: Mahbub Alam Qurashi 
+2016-04-15 23:53:19,716 INFO  [devpinoyLogger] Friend Name 79) is: Fatema Binte Zamir 
+2016-04-15 23:53:19,733 INFO  [devpinoyLogger] Friend Name 80) is: Nadira Begum 
+2016-04-15 23:53:19,753 INFO  [devpinoyLogger] Friend Name 81) is: Syed Ghulam Rahman 
+2016-04-15 23:53:19,774 INFO  [devpinoyLogger] Friend Name 82) is: Dewan Nafim 
+2016-04-15 23:53:19,791 INFO  [devpinoyLogger] Friend Name 83) is: Biplob Syed 
+2016-04-15 23:53:19,807 INFO  [devpinoyLogger] Friend Name 84) is: Sunny Shah 
+2016-04-15 23:53:19,825 INFO  [devpinoyLogger] Friend Name 85) is: Naseef A 
+2016-04-15 23:53:19,841 INFO  [devpinoyLogger] Friend Name 86) is: Bushra Haque 
+2016-04-15 23:53:19,859 INFO  [devpinoyLogger] Friend Name 87) is: Roxsana Begum 
+2016-04-15 23:53:19,877 INFO  [devpinoyLogger] Friend Name 88) is: Shahidur Chowdhury 
+2016-04-15 23:53:19,894 INFO  [devpinoyLogger] Friend Name 89) is: Wahida Khan 
+2016-04-15 23:53:19,908 INFO  [devpinoyLogger] Friend Name 90) is: Wahida Khan 
+2016-04-15 23:53:19,927 INFO  [devpinoyLogger] Friend Name 91) is: Mohammad Shafquat Alam 
+2016-04-15 23:53:19,947 INFO  [devpinoyLogger] Friend Name 92) is: Wahid Chowdhury 
+2016-04-15 23:53:19,963 INFO  [devpinoyLogger] Friend Name 93) is: Labiba Ahasun 
+2016-04-15 23:53:19,980 INFO  [devpinoyLogger] Friend Name 94) is: Samir Abdul Haque 
+2016-04-15 23:53:19,995 INFO  [devpinoyLogger] Friend Name 95) is: Nishat Kabir 
+2016-04-15 23:53:20,010 INFO  [devpinoyLogger] Friend Name 96) is: Zia Khan 
+2016-04-15 23:53:20,029 INFO  [devpinoyLogger] Friend Name 97) is: Shafqat Ali 
+2016-04-15 23:53:20,044 INFO  [devpinoyLogger] Friend Name 98) is: Rahbar Ahmed 
+2016-04-15 23:53:20,058 INFO  [devpinoyLogger] Friend Name 99) is: Nahin Kabir 
+2016-04-15 23:53:20,076 INFO  [devpinoyLogger] Friend Name 100) is: Shegufta Ferdousi 
+2016-04-15 23:53:20,090 INFO  [devpinoyLogger] Friend Name 101) is: Nasrin Kabir 
+2016-04-15 23:53:20,110 INFO  [devpinoyLogger] Friend Name 102) is: M Shah Azad Ali 
+2016-04-15 23:53:20,125 INFO  [devpinoyLogger] Friend Name 103) is: Nargis Akter 
+2016-04-15 23:53:20,141 INFO  [devpinoyLogger] Friend Name 104) is: Moazzem Sarker 
+2016-04-15 23:53:20,156 INFO  [devpinoyLogger] Friend Name 105) is: Sajjad Ali 
+2016-04-15 23:53:20,170 INFO  [devpinoyLogger] Friend Name 106) is: Fadiya Chowdhury 
+2016-04-15 23:53:20,188 INFO  [devpinoyLogger] Friend Name 107) is: Saika Parveen 
+2016-04-15 23:53:20,207 INFO  [devpinoyLogger] Friend Name 108) is: Sadiqul Islam 
+2016-04-15 23:53:20,224 INFO  [devpinoyLogger] Friend Name 109) is: Shakiba Ali 
+2016-04-15 23:53:20,244 INFO  [devpinoyLogger] Friend Name 110) is: Ankur Patel 
+2016-04-15 23:53:20,265 INFO  [devpinoyLogger] Friend Name 111) is: MD Salam 
+2016-04-15 23:53:20,283 INFO  [devpinoyLogger] Friend Name 112) is: Shakila Shihab Nabi 
+2016-04-15 23:53:20,305 INFO  [devpinoyLogger] Friend Name 113) is: Mohammed Haque 
+2016-04-15 23:53:20,328 INFO  [devpinoyLogger] Friend Name 114) is: Zeanat Parven 
+2016-04-15 23:53:20,346 INFO  [devpinoyLogger] Friend Name 115) is: Abrar Daiyan 
+2016-04-15 23:53:20,365 INFO  [devpinoyLogger] Friend Name 116) is: Farida Khanam 
+2016-04-15 23:53:20,380 INFO  [devpinoyLogger] Friend Name 117) is: Abid Ali 
+2016-04-15 23:53:20,396 INFO  [devpinoyLogger] Friend Name 118) is: Md.Enamul Karim Khan 
+2016-04-15 23:53:20,413 INFO  [devpinoyLogger] Friend Name 119) is: Karim Iqbal Nouman 
+2016-04-15 23:53:20,432 INFO  [devpinoyLogger] Friend Name 120) is: Fatima Kaneez 
+2016-04-15 23:53:20,454 INFO  [devpinoyLogger] Friend Name 121) is: Mohammed Masudur Rahman 
+2016-04-15 23:53:20,470 INFO  [devpinoyLogger] Friend Name 122) is: Stephen Mathew 
+2016-04-15 23:53:20,487 INFO  [devpinoyLogger] Friend Name 123) is: Akm M Rashid 
+2016-04-15 23:53:20,502 INFO  [devpinoyLogger] Friend Name 124) is: Salma El Shafei 
+2016-04-15 23:53:20,519 INFO  [devpinoyLogger] Friend Name 125) is: Nazmul Haque Rpmc 
+2016-04-15 23:53:20,533 INFO  [devpinoyLogger] Friend Name 126) is: Rimi Afroze 
+2016-04-15 23:53:20,550 INFO  [devpinoyLogger] Friend Name 127) is: Nimish Patel 
+2016-04-15 23:53:20,565 INFO  [devpinoyLogger] Friend Name 128) is: Syeda Nahar 
+2016-04-15 23:53:20,583 INFO  [devpinoyLogger] Friend Name 129) is: Basharat Ali 
+2016-04-15 23:53:20,602 INFO  [devpinoyLogger] Friend Name 130) is: Patrick Babatunde 
+2016-04-15 23:53:20,623 INFO  [devpinoyLogger] Friend Name 131) is: Mohammed Alam 
+2016-04-15 23:53:20,643 INFO  [devpinoyLogger] Friend Name 132) is: Setu Chowdhury 
+2016-04-15 23:53:20,663 INFO  [devpinoyLogger] Friend Name 133) is: Rejwana Rahman 
+2016-04-15 23:53:20,682 INFO  [devpinoyLogger] Friend Name 134) is: Land Angel Annanna 
+2016-04-15 23:53:20,703 INFO  [devpinoyLogger] Friend Name 135) is: Sadman Rahman 
+2016-04-15 23:53:20,723 INFO  [devpinoyLogger] Friend Name 136) is: Mayesha Tasnim Haque 
+2016-04-15 23:53:20,743 INFO  [devpinoyLogger] Friend Name 137) is: Radia Rahman 
+2016-04-15 23:53:20,764 INFO  [devpinoyLogger] Friend Name 138) is: Munni Munni 
+2016-04-15 23:53:20,781 INFO  [devpinoyLogger] Friend Name 139) is: Modina Begum 
+2016-04-15 23:53:20,784 INFO  [devpinoyLogger] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-04-15 23:53:20,784 INFO  [devpinoyLogger] X 
+2016-04-15 23:53:20,784 INFO  [devpinoyLogger] X 
+2016-04-15 23:53:20,784 INFO  [devpinoyLogger] X 
+2016-04-15 23:53:20,784 INFO  [devpinoyLogger] X 
+2016-04-15 23:59:17,735 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-15 23:59:17,736 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-15 23:59:17,737 INFO  [devpinoyLogger] $$$$$$$$$$$$$$$$$$$$$                 FaceBookFriends List       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-15 23:59:17,737 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-15 23:59:17,737 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-15 23:59:17,936 INFO  [devpinoyLogger] Opening the browser: Mozilla 
+2016-04-15 23:59:39,293 INFO  [devpinoyLogger] Logging in to Facebook account 
+2016-04-15 23:59:41,267 INFO  [devpinoyLogger] Entering the user email: ayon88@hotmail.com 
+2016-04-15 23:59:41,486 INFO  [devpinoyLogger] Entering the encoded password : TGl0dG9uNTc2Nw== 
+2016-04-15 23:59:50,330 INFO  [devpinoyLogger] Clicking into my profile link 
+2016-04-15 23:59:53,591 INFO  [devpinoyLogger] Clicking into my friends link 
+2016-04-16 00:00:31,357 INFO  [devpinoyLogger] Total no of friends is :140 
+2016-04-16 00:00:31,358 INFO  [devpinoyLogger] Extracting and Printing the friends name 
+2016-04-16 00:00:31,391 INFO  [devpinoyLogger] Friend Name 0) is: Mohammad Haque 
+2016-04-16 00:00:31,413 INFO  [devpinoyLogger] Friend Name 1) is: Sushmita Samad 
+2016-04-16 00:00:31,432 INFO  [devpinoyLogger] Friend Name 2) is: Shahid Haque 
+2016-04-16 00:00:31,458 INFO  [devpinoyLogger] Friend Name 3) is: Segufta Samad 
+2016-04-16 00:00:31,479 INFO  [devpinoyLogger] Friend Name 4) is: Naznin Haque 
+2016-04-16 00:00:31,503 INFO  [devpinoyLogger] Friend Name 5) is: Shara Rahman 
+2016-04-16 00:00:31,523 INFO  [devpinoyLogger] Friend Name 6) is: Kazi Aynul Haque 
+2016-04-16 00:00:31,546 INFO  [devpinoyLogger] Friend Name 7) is: Dewan Ahsan Kabir 
+2016-04-16 00:00:31,563 INFO  [devpinoyLogger] Friend Name 8) is: Afsana Ali 
+2016-04-16 00:00:31,585 INFO  [devpinoyLogger] Friend Name 9) is: Kaiser Khan 
+2016-04-16 00:00:31,608 INFO  [devpinoyLogger] Friend Name 10) is: Afsar Ali 
+2016-04-16 00:00:31,630 INFO  [devpinoyLogger] Friend Name 11) is: Tahseen Ahmed 
+2016-04-16 00:00:31,653 INFO  [devpinoyLogger] Friend Name 12) is: Naushin Laila 
+2016-04-16 00:00:31,674 INFO  [devpinoyLogger] Friend Name 13) is: Sanjeena Alam 
+2016-04-16 00:00:31,695 INFO  [devpinoyLogger] Friend Name 14) is: Saifur Chowdhury 
+2016-04-16 00:00:31,717 INFO  [devpinoyLogger] Friend Name 15) is: Syeda Shubhrata Hussain Tuli 
+2016-04-16 00:00:31,739 INFO  [devpinoyLogger] Friend Name 16) is: Obayed Azman 
+2016-04-16 00:00:31,761 INFO  [devpinoyLogger] Friend Name 17) is: Anar Chowdhury 
+2016-04-16 00:00:31,787 INFO  [devpinoyLogger] Friend Name 18) is: Helen Samad 
+2016-04-16 00:00:31,808 INFO  [devpinoyLogger] Friend Name 19) is: Munira Haq 
+2016-04-16 00:00:31,829 INFO  [devpinoyLogger] Friend Name 20) is: Manjan Ahmed Chowdhury 
+2016-04-16 00:00:31,851 INFO  [devpinoyLogger] Friend Name 21) is: Tanvina Sharmin 
+2016-04-16 00:00:31,872 INFO  [devpinoyLogger] Friend Name 22) is: Ghulam K. Limon 
+2016-04-16 00:00:31,894 INFO  [devpinoyLogger] Friend Name 23) is: Faisal Rashid 
+2016-04-16 00:00:31,917 INFO  [devpinoyLogger] Friend Name 24) is: Noor Jinnah 
+2016-04-16 00:00:31,938 INFO  [devpinoyLogger] Friend Name 25) is: Bakul Chowdhury 
+2016-04-16 00:00:31,960 INFO  [devpinoyLogger] Friend Name 26) is: Bashir Ahmed 
+2016-04-16 00:00:31,981 INFO  [devpinoyLogger] Friend Name 27) is: Nur Taraky 
+2016-04-16 00:00:32,002 INFO  [devpinoyLogger] Friend Name 28) is: Shamimara Tanno 
+2016-04-16 00:00:32,023 INFO  [devpinoyLogger] Friend Name 29) is: Mehrin Haque 
+2016-04-16 00:00:32,045 INFO  [devpinoyLogger] Friend Name 30) is: Kazi Motiur 
+2016-04-16 00:00:32,067 INFO  [devpinoyLogger] Friend Name 31) is: Saadat Hossain Saif 
+2016-04-16 00:00:32,086 INFO  [devpinoyLogger] Friend Name 32) is: Zeeshan Ahmed 
+2016-04-16 00:00:32,102 INFO  [devpinoyLogger] Friend Name 33) is: Nasrin Biplob 
+2016-04-16 00:00:32,118 INFO  [devpinoyLogger] Friend Name 34) is: Rebecca Diaz Kabir 
+2016-04-16 00:00:32,138 INFO  [devpinoyLogger] Friend Name 35) is: Asma Begum 
+2016-04-16 00:00:32,155 INFO  [devpinoyLogger] Friend Name 36) is: Farzana Khan 
+2016-04-16 00:00:32,174 INFO  [devpinoyLogger] Friend Name 37) is: Sharif Islam 
+2016-04-16 00:00:32,196 INFO  [devpinoyLogger] Friend Name 38) is: Afsana Alam 
+2016-04-16 00:00:32,218 INFO  [devpinoyLogger] Friend Name 39) is: Tabassum Haque 
+2016-04-16 00:00:32,239 INFO  [devpinoyLogger] Friend Name 40) is: Mansur Chowdhury 
+2016-04-16 00:00:32,261 INFO  [devpinoyLogger] Friend Name 41) is: Abu Liaquat Hussain 
+2016-04-16 00:00:32,282 INFO  [devpinoyLogger] Friend Name 42) is: Monir Ahmed 
+2016-04-16 00:00:32,301 INFO  [devpinoyLogger] Friend Name 43) is: Shukria Begum 
+2016-04-16 00:00:32,322 INFO  [devpinoyLogger] Friend Name 44) is: Nahid Fatima Tanni 
+2016-04-16 00:00:32,343 INFO  [devpinoyLogger] Friend Name 45) is: Mehtab Jab 
+2016-04-16 00:00:32,364 INFO  [devpinoyLogger] Friend Name 46) is: Shamim Chowdhury 
+2016-04-16 00:00:32,386 INFO  [devpinoyLogger] Friend Name 47) is: Selina Chowdhury 
+2016-04-16 00:00:32,407 INFO  [devpinoyLogger] Friend Name 48) is: ?ajïa Afrî? Qurêshï 
+2016-04-16 00:00:32,431 INFO  [devpinoyLogger] Friend Name 49) is: Jacob Chowdhury 
+2016-04-16 00:00:32,453 INFO  [devpinoyLogger] Friend Name 50) is: Wahida Khan 
+2016-04-16 00:00:32,480 INFO  [devpinoyLogger] Friend Name 51) is: Rahman Kazimashiur 
+2016-04-16 00:00:32,502 INFO  [devpinoyLogger] Friend Name 52) is: Shafeen Islam 
+2016-04-16 00:00:32,524 INFO  [devpinoyLogger] Friend Name 53) is: Masuma Begum 
+2016-04-16 00:00:32,547 INFO  [devpinoyLogger] Friend Name 54) is: Nahrin Kawsar Hima 
+2016-04-16 00:00:32,567 INFO  [devpinoyLogger] Friend Name 55) is: Farhana Khan 
+2016-04-16 00:00:32,589 INFO  [devpinoyLogger] Friend Name 56) is: Hamza Choudhury 
+2016-04-16 00:00:32,609 INFO  [devpinoyLogger] Friend Name 57) is: Nazma Rasul 
+2016-04-16 00:00:32,634 INFO  [devpinoyLogger] Friend Name 58) is: Saathi Ksp 
+2016-04-16 00:00:32,656 INFO  [devpinoyLogger] Friend Name 59) is: Tamanna Alam 
+2016-04-16 00:00:32,676 INFO  [devpinoyLogger] Friend Name 60) is: Shakhawat Ahmed 
+2016-04-16 00:00:32,697 INFO  [devpinoyLogger] Friend Name 61) is: Modina Begum 
+2016-04-16 00:00:32,718 INFO  [devpinoyLogger] Friend Name 62) is: Zeanat Parven 
+2016-04-16 00:00:32,738 INFO  [devpinoyLogger] Friend Name 63) is: Tanzeena Alam 
+2016-04-16 00:00:32,757 INFO  [devpinoyLogger] Friend Name 64) is: Ruksana Kabir 
+2016-04-16 00:00:32,777 INFO  [devpinoyLogger] Friend Name 65) is: Adil Shah 
+2016-04-16 00:00:32,796 INFO  [devpinoyLogger] Friend Name 66) is: Farhad Zahir Ahmed 
+2016-04-16 00:00:32,814 INFO  [devpinoyLogger] Friend Name 67) is: Aftab Hussain Iqbal 
+2016-04-16 00:00:32,832 INFO  [devpinoyLogger] Friend Name 68) is: Saadat Aurnob Syed 
+2016-04-16 00:00:32,848 INFO  [devpinoyLogger] Friend Name 69) is: Altaf Hussain Iqbal 
+2016-04-16 00:00:32,867 INFO  [devpinoyLogger] Friend Name 70) is: Azreen Karim 
+2016-04-16 00:00:32,886 INFO  [devpinoyLogger] Friend Name 71) is: Mohammed Chowdhury 
+2016-04-16 00:00:32,901 INFO  [devpinoyLogger] Friend Name 72) is: Adnan Haque 
+2016-04-16 00:00:32,921 INFO  [devpinoyLogger] Friend Name 73) is: Saleh Choudhury 
+2016-04-16 00:00:32,942 INFO  [devpinoyLogger] Friend Name 74) is: Aisha Umme Rahina Hussain-Salam 
+2016-04-16 00:00:32,961 INFO  [devpinoyLogger] Friend Name 75) is: Nadira Anis 
+2016-04-16 00:00:32,982 INFO  [devpinoyLogger] Friend Name 76) is: Jacob Chowdhury 
+2016-04-16 00:00:32,998 INFO  [devpinoyLogger] Friend Name 77) is: Ferdous Khan 
+2016-04-16 00:00:33,017 INFO  [devpinoyLogger] Friend Name 78) is: Mahbub Alam Qurashi 
+2016-04-16 00:00:33,033 INFO  [devpinoyLogger] Friend Name 79) is: Fatema Binte Zamir 
+2016-04-16 00:00:33,059 INFO  [devpinoyLogger] Friend Name 80) is: Nadira Begum 
+2016-04-16 00:00:33,078 INFO  [devpinoyLogger] Friend Name 81) is: Syed Ghulam Rahman 
+2016-04-16 00:00:33,094 INFO  [devpinoyLogger] Friend Name 82) is: Dewan Nafim 
+2016-04-16 00:00:33,114 INFO  [devpinoyLogger] Friend Name 83) is: Biplob Syed 
+2016-04-16 00:00:33,136 INFO  [devpinoyLogger] Friend Name 84) is: Sunny Shah 
+2016-04-16 00:00:33,162 INFO  [devpinoyLogger] Friend Name 85) is: Naseef A 
+2016-04-16 00:00:33,177 INFO  [devpinoyLogger] Friend Name 86) is: Bushra Haque 
+2016-04-16 00:00:33,197 INFO  [devpinoyLogger] Friend Name 87) is: Roxsana Begum 
+2016-04-16 00:00:33,217 INFO  [devpinoyLogger] Friend Name 88) is: Shahidur Chowdhury 
+2016-04-16 00:00:33,238 INFO  [devpinoyLogger] Friend Name 89) is: Wahida Khan 
+2016-04-16 00:00:33,260 INFO  [devpinoyLogger] Friend Name 90) is: Wahida Khan 
+2016-04-16 00:00:33,281 INFO  [devpinoyLogger] Friend Name 91) is: Mohammad Shafquat Alam 
+2016-04-16 00:00:33,301 INFO  [devpinoyLogger] Friend Name 92) is: Wahid Chowdhury 
+2016-04-16 00:00:33,324 INFO  [devpinoyLogger] Friend Name 93) is: Labiba Ahasun 
+2016-04-16 00:00:33,341 INFO  [devpinoyLogger] Friend Name 94) is: Samir Abdul Haque 
+2016-04-16 00:00:33,363 INFO  [devpinoyLogger] Friend Name 95) is: Nishat Kabir 
+2016-04-16 00:00:33,384 INFO  [devpinoyLogger] Friend Name 96) is: Zia Khan 
+2016-04-16 00:00:33,403 INFO  [devpinoyLogger] Friend Name 97) is: Shafqat Ali 
+2016-04-16 00:00:33,420 INFO  [devpinoyLogger] Friend Name 98) is: Rahbar Ahmed 
+2016-04-16 00:00:33,435 INFO  [devpinoyLogger] Friend Name 99) is: Nahin Kabir 
+2016-04-16 00:00:33,456 INFO  [devpinoyLogger] Friend Name 100) is: Shegufta Ferdousi 
+2016-04-16 00:00:33,479 INFO  [devpinoyLogger] Friend Name 101) is: Nasrin Kabir 
+2016-04-16 00:00:33,496 INFO  [devpinoyLogger] Friend Name 102) is: M Shah Azad Ali 
+2016-04-16 00:00:33,516 INFO  [devpinoyLogger] Friend Name 103) is: Nargis Akter 
+2016-04-16 00:00:33,535 INFO  [devpinoyLogger] Friend Name 104) is: Moazzem Sarker 
+2016-04-16 00:00:33,555 INFO  [devpinoyLogger] Friend Name 105) is: Sajjad Ali 
+2016-04-16 00:00:33,572 INFO  [devpinoyLogger] Friend Name 106) is: Fadiya Chowdhury 
+2016-04-16 00:00:33,588 INFO  [devpinoyLogger] Friend Name 107) is: Saika Parveen 
+2016-04-16 00:00:33,604 INFO  [devpinoyLogger] Friend Name 108) is: Sadiqul Islam 
+2016-04-16 00:00:33,621 INFO  [devpinoyLogger] Friend Name 109) is: Shakiba Ali 
+2016-04-16 00:00:33,639 INFO  [devpinoyLogger] Friend Name 110) is: Ankur Patel 
+2016-04-16 00:00:33,659 INFO  [devpinoyLogger] Friend Name 111) is: MD Salam 
+2016-04-16 00:00:33,679 INFO  [devpinoyLogger] Friend Name 112) is: Shakila Shihab Nabi 
+2016-04-16 00:00:33,696 INFO  [devpinoyLogger] Friend Name 113) is: Mohammed Haque 
+2016-04-16 00:00:33,713 INFO  [devpinoyLogger] Friend Name 114) is: Zeanat Parven 
+2016-04-16 00:00:33,733 INFO  [devpinoyLogger] Friend Name 115) is: Abrar Daiyan 
+2016-04-16 00:00:33,750 INFO  [devpinoyLogger] Friend Name 116) is: Farida Khanam 
+2016-04-16 00:00:33,766 INFO  [devpinoyLogger] Friend Name 117) is: Abid Ali 
+2016-04-16 00:00:33,784 INFO  [devpinoyLogger] Friend Name 118) is: Md.Enamul Karim Khan 
+2016-04-16 00:00:33,805 INFO  [devpinoyLogger] Friend Name 119) is: Karim Iqbal Nouman 
+2016-04-16 00:00:33,822 INFO  [devpinoyLogger] Friend Name 120) is: Fatima Kaneez 
+2016-04-16 00:00:33,842 INFO  [devpinoyLogger] Friend Name 121) is: Mohammed Masudur Rahman 
+2016-04-16 00:00:33,860 INFO  [devpinoyLogger] Friend Name 122) is: Stephen Mathew 
+2016-04-16 00:00:33,878 INFO  [devpinoyLogger] Friend Name 123) is: Akm M Rashid 
+2016-04-16 00:00:33,896 INFO  [devpinoyLogger] Friend Name 124) is: Salma El Shafei 
+2016-04-16 00:00:33,912 INFO  [devpinoyLogger] Friend Name 125) is: Nazmul Haque Rpmc 
+2016-04-16 00:00:33,932 INFO  [devpinoyLogger] Friend Name 126) is: Rimi Afroze 
+2016-04-16 00:00:33,952 INFO  [devpinoyLogger] Friend Name 127) is: Nimish Patel 
+2016-04-16 00:00:33,968 INFO  [devpinoyLogger] Friend Name 128) is: Syeda Nahar 
+2016-04-16 00:00:33,985 INFO  [devpinoyLogger] Friend Name 129) is: Basharat Ali 
+2016-04-16 00:00:34,000 INFO  [devpinoyLogger] Friend Name 130) is: Patrick Babatunde 
+2016-04-16 00:00:34,015 INFO  [devpinoyLogger] Friend Name 131) is: Mohammed Alam 
+2016-04-16 00:00:34,035 INFO  [devpinoyLogger] Friend Name 132) is: Setu Chowdhury 
+2016-04-16 00:00:34,053 INFO  [devpinoyLogger] Friend Name 133) is: Rejwana Rahman 
+2016-04-16 00:00:34,067 INFO  [devpinoyLogger] Friend Name 134) is: Land Angel Annanna 
+2016-04-16 00:00:34,089 INFO  [devpinoyLogger] Friend Name 135) is: Sadman Rahman 
+2016-04-16 00:00:34,109 INFO  [devpinoyLogger] Friend Name 136) is: Mayesha Tasnim Haque 
+2016-04-16 00:00:34,127 INFO  [devpinoyLogger] Friend Name 137) is: Radia Rahman 
+2016-04-16 00:00:34,145 INFO  [devpinoyLogger] Friend Name 138) is: Munni Munni 
+2016-04-16 00:00:34,161 INFO  [devpinoyLogger] Friend Name 139) is: Modina Begum 
+2016-04-16 00:00:34,164 INFO  [devpinoyLogger] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-04-16 00:00:34,164 INFO  [devpinoyLogger] X 
+2016-04-16 00:00:34,164 INFO  [devpinoyLogger] X 
+2016-04-16 00:00:34,164 INFO  [devpinoyLogger] X 
+2016-04-16 00:00:34,164 INFO  [devpinoyLogger] X 
+2016-04-16 00:09:12,379 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:09:12,406 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:09:12,407 INFO  [devpinoyLogger] $$$$$$$$$$$$$$$$$$$$$                 FaceBookFriends List       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-16 00:09:12,407 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:09:12,407 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:09:12,710 INFO  [devpinoyLogger] Opening the browser: Mozilla 
+2016-04-16 00:09:22,938 INFO  [devpinoyLogger] Logging in to Facebook account 
+2016-04-16 00:09:24,403 INFO  [devpinoyLogger] Entering the user email: ayon88@hotmail.com 
+2016-04-16 00:09:24,602 INFO  [devpinoyLogger] Entering the encoded password : TGl0dG9uNTc2Nw== 
+2016-04-16 00:09:31,877 INFO  [devpinoyLogger] Clicking into my profile link 
+2016-04-16 00:09:35,097 INFO  [devpinoyLogger] Clicking into my friends link 
+2016-04-16 00:10:12,855 INFO  [devpinoyLogger] Total no of friends is :140 
+2016-04-16 00:10:12,856 INFO  [devpinoyLogger] Extracting and Printing the friends name 
+2016-04-16 00:10:12,897 INFO  [devpinoyLogger] Friend Name 0) is: Mohammad Haque 
+2016-04-16 00:10:12,921 INFO  [devpinoyLogger] Friend Name 1) is: Sushmita Samad 
+2016-04-16 00:10:12,949 INFO  [devpinoyLogger] Friend Name 2) is: Shahid Haque 
+2016-04-16 00:10:12,974 INFO  [devpinoyLogger] Friend Name 3) is: Segufta Samad 
+2016-04-16 00:10:13,000 INFO  [devpinoyLogger] Friend Name 4) is: Naznin Haque 
+2016-04-16 00:10:13,023 INFO  [devpinoyLogger] Friend Name 5) is: Shara Rahman 
+2016-04-16 00:10:13,049 INFO  [devpinoyLogger] Friend Name 6) is: Kazi Aynul Haque 
+2016-04-16 00:10:13,072 INFO  [devpinoyLogger] Friend Name 7) is: Dewan Ahsan Kabir 
+2016-04-16 00:10:13,096 INFO  [devpinoyLogger] Friend Name 8) is: Afsana Ali 
+2016-04-16 00:10:13,117 INFO  [devpinoyLogger] Friend Name 9) is: Kaiser Khan 
+2016-04-16 00:10:13,142 INFO  [devpinoyLogger] Friend Name 10) is: Afsar Ali 
+2016-04-16 00:10:13,165 INFO  [devpinoyLogger] Friend Name 11) is: Tahseen Ahmed 
+2016-04-16 00:10:13,187 INFO  [devpinoyLogger] Friend Name 12) is: Naushin Laila 
+2016-04-16 00:10:13,215 INFO  [devpinoyLogger] Friend Name 13) is: Sanjeena Alam 
+2016-04-16 00:10:13,237 INFO  [devpinoyLogger] Friend Name 14) is: Saifur Chowdhury 
+2016-04-16 00:10:13,260 INFO  [devpinoyLogger] Friend Name 15) is: Syeda Shubhrata Hussain Tuli 
+2016-04-16 00:10:13,281 INFO  [devpinoyLogger] Friend Name 16) is: Obayed Azman 
+2016-04-16 00:10:13,304 INFO  [devpinoyLogger] Friend Name 17) is: Anar Chowdhury 
+2016-04-16 00:10:13,326 INFO  [devpinoyLogger] Friend Name 18) is: Helen Samad 
+2016-04-16 00:10:13,353 INFO  [devpinoyLogger] Friend Name 19) is: Munira Haq 
+2016-04-16 00:10:13,376 INFO  [devpinoyLogger] Friend Name 20) is: Manjan Ahmed Chowdhury 
+2016-04-16 00:10:13,398 INFO  [devpinoyLogger] Friend Name 21) is: Tanvina Sharmin 
+2016-04-16 00:10:13,420 INFO  [devpinoyLogger] Friend Name 22) is: Ghulam K. Limon 
+2016-04-16 00:10:13,441 INFO  [devpinoyLogger] Friend Name 23) is: Faisal Rashid 
+2016-04-16 00:10:13,462 INFO  [devpinoyLogger] Friend Name 24) is: Noor Jinnah 
+2016-04-16 00:10:13,485 INFO  [devpinoyLogger] Friend Name 25) is: Bakul Chowdhury 
+2016-04-16 00:10:13,510 INFO  [devpinoyLogger] Friend Name 26) is: Bashir Ahmed 
+2016-04-16 00:10:13,532 INFO  [devpinoyLogger] Friend Name 27) is: Nur Taraky 
+2016-04-16 00:10:13,552 INFO  [devpinoyLogger] Friend Name 28) is: Shamimara Tanno 
+2016-04-16 00:10:13,572 INFO  [devpinoyLogger] Friend Name 29) is: Mehrin Haque 
+2016-04-16 00:10:13,593 INFO  [devpinoyLogger] Friend Name 30) is: Kazi Motiur 
+2016-04-16 00:10:13,614 INFO  [devpinoyLogger] Friend Name 31) is: Saadat Hossain Saif 
+2016-04-16 00:10:13,637 INFO  [devpinoyLogger] Friend Name 32) is: Zeeshan Ahmed 
+2016-04-16 00:10:13,659 INFO  [devpinoyLogger] Friend Name 33) is: Nasrin Biplob 
+2016-04-16 00:10:13,680 INFO  [devpinoyLogger] Friend Name 34) is: Rebecca Diaz Kabir 
+2016-04-16 00:10:13,696 INFO  [devpinoyLogger] Friend Name 35) is: Asma Begum 
+2016-04-16 00:10:13,719 INFO  [devpinoyLogger] Friend Name 36) is: Farzana Khan 
+2016-04-16 00:10:13,737 INFO  [devpinoyLogger] Friend Name 37) is: Sharif Islam 
+2016-04-16 00:10:13,758 INFO  [devpinoyLogger] Friend Name 38) is: Afsana Alam 
+2016-04-16 00:10:13,780 INFO  [devpinoyLogger] Friend Name 39) is: Tabassum Haque 
+2016-04-16 00:10:13,802 INFO  [devpinoyLogger] Friend Name 40) is: Mansur Chowdhury 
+2016-04-16 00:10:13,825 INFO  [devpinoyLogger] Friend Name 41) is: Abu Liaquat Hussain 
+2016-04-16 00:10:13,846 INFO  [devpinoyLogger] Friend Name 42) is: Monir Ahmed 
+2016-04-16 00:10:13,868 INFO  [devpinoyLogger] Friend Name 43) is: Shukria Begum 
+2016-04-16 00:10:13,886 INFO  [devpinoyLogger] Friend Name 44) is: Nahid Fatima Tanni 
+2016-04-16 00:10:13,903 INFO  [devpinoyLogger] Friend Name 45) is: Mehtab Jab 
+2016-04-16 00:10:13,920 INFO  [devpinoyLogger] Friend Name 46) is: Shamim Chowdhury 
+2016-04-16 00:10:13,941 INFO  [devpinoyLogger] Friend Name 47) is: Selina Chowdhury 
+2016-04-16 00:10:13,962 INFO  [devpinoyLogger] Friend Name 48) is: ?ajïa Afrî? Qurêshï 
+2016-04-16 00:10:13,984 INFO  [devpinoyLogger] Friend Name 49) is: Jacob Chowdhury 
+2016-04-16 00:10:14,005 INFO  [devpinoyLogger] Friend Name 50) is: Wahida Khan 
+2016-04-16 00:10:14,031 INFO  [devpinoyLogger] Friend Name 51) is: Rahman Kazimashiur 
+2016-04-16 00:10:14,053 INFO  [devpinoyLogger] Friend Name 52) is: Shafeen Islam 
+2016-04-16 00:10:14,075 INFO  [devpinoyLogger] Friend Name 53) is: Masuma Begum 
+2016-04-16 00:10:14,090 INFO  [devpinoyLogger] Friend Name 54) is: Nahrin Kawsar Hima 
+2016-04-16 00:10:14,108 INFO  [devpinoyLogger] Friend Name 55) is: Farhana Khan 
+2016-04-16 00:10:14,126 INFO  [devpinoyLogger] Friend Name 56) is: Hamza Choudhury 
+2016-04-16 00:10:14,147 INFO  [devpinoyLogger] Friend Name 57) is: Nazma Rasul 
+2016-04-16 00:10:14,168 INFO  [devpinoyLogger] Friend Name 58) is: Saathi Ksp 
+2016-04-16 00:10:14,188 INFO  [devpinoyLogger] Friend Name 59) is: Tamanna Alam 
+2016-04-16 00:10:14,206 INFO  [devpinoyLogger] Friend Name 60) is: Shakhawat Ahmed 
+2016-04-16 00:10:14,227 INFO  [devpinoyLogger] Friend Name 61) is: Modina Begum 
+2016-04-16 00:10:14,248 INFO  [devpinoyLogger] Friend Name 62) is: Zeanat Parven 
+2016-04-16 00:10:14,269 INFO  [devpinoyLogger] Friend Name 63) is: Tanzeena Alam 
+2016-04-16 00:10:14,290 INFO  [devpinoyLogger] Friend Name 64) is: Ruksana Kabir 
+2016-04-16 00:10:14,310 INFO  [devpinoyLogger] Friend Name 65) is: Adil Shah 
+2016-04-16 00:10:14,332 INFO  [devpinoyLogger] Friend Name 66) is: Farhad Zahir Ahmed 
+2016-04-16 00:10:14,351 INFO  [devpinoyLogger] Friend Name 67) is: Aftab Hussain Iqbal 
+2016-04-16 00:10:14,372 INFO  [devpinoyLogger] Friend Name 68) is: Saadat Aurnob Syed 
+2016-04-16 00:10:14,389 INFO  [devpinoyLogger] Friend Name 69) is: Altaf Hussain Iqbal 
+2016-04-16 00:10:14,415 INFO  [devpinoyLogger] Friend Name 70) is: Azreen Karim 
+2016-04-16 00:10:14,433 INFO  [devpinoyLogger] Friend Name 71) is: Mohammed Chowdhury 
+2016-04-16 00:10:14,454 INFO  [devpinoyLogger] Friend Name 72) is: Adnan Haque 
+2016-04-16 00:10:14,482 INFO  [devpinoyLogger] Friend Name 73) is: Saleh Choudhury 
+2016-04-16 00:10:14,513 INFO  [devpinoyLogger] Friend Name 74) is: Aisha Umme Rahina Hussain-Salam 
+2016-04-16 00:10:14,534 INFO  [devpinoyLogger] Friend Name 75) is: Nadira Anis 
+2016-04-16 00:10:14,555 INFO  [devpinoyLogger] Friend Name 76) is: Jacob Chowdhury 
+2016-04-16 00:10:14,573 INFO  [devpinoyLogger] Friend Name 77) is: Ferdous Khan 
+2016-04-16 00:10:14,593 INFO  [devpinoyLogger] Friend Name 78) is: Mahbub Alam Qurashi 
+2016-04-16 00:10:14,610 INFO  [devpinoyLogger] Friend Name 79) is: Fatema Binte Zamir 
+2016-04-16 00:10:14,630 INFO  [devpinoyLogger] Friend Name 80) is: Nadira Begum 
+2016-04-16 00:10:14,648 INFO  [devpinoyLogger] Friend Name 81) is: Syed Ghulam Rahman 
+2016-04-16 00:10:14,669 INFO  [devpinoyLogger] Friend Name 82) is: Dewan Nafim 
+2016-04-16 00:10:14,686 INFO  [devpinoyLogger] Friend Name 83) is: Biplob Syed 
+2016-04-16 00:10:14,707 INFO  [devpinoyLogger] Friend Name 84) is: Sunny Shah 
+2016-04-16 00:10:14,728 INFO  [devpinoyLogger] Friend Name 85) is: Naseef A 
+2016-04-16 00:10:14,749 INFO  [devpinoyLogger] Friend Name 86) is: Bushra Haque 
+2016-04-16 00:10:14,770 INFO  [devpinoyLogger] Friend Name 87) is: Roxsana Begum 
+2016-04-16 00:10:14,790 INFO  [devpinoyLogger] Friend Name 88) is: Shahidur Chowdhury 
+2016-04-16 00:10:14,812 INFO  [devpinoyLogger] Friend Name 89) is: Wahida Khan 
+2016-04-16 00:10:14,830 INFO  [devpinoyLogger] Friend Name 90) is: Wahida Khan 
+2016-04-16 00:10:14,846 INFO  [devpinoyLogger] Friend Name 91) is: Mohammad Shafquat Alam 
+2016-04-16 00:10:14,864 INFO  [devpinoyLogger] Friend Name 92) is: Wahid Chowdhury 
+2016-04-16 00:10:14,885 INFO  [devpinoyLogger] Friend Name 93) is: Labiba Ahasun 
+2016-04-16 00:10:14,904 INFO  [devpinoyLogger] Friend Name 94) is: Samir Abdul Haque 
+2016-04-16 00:10:14,921 INFO  [devpinoyLogger] Friend Name 95) is: Nishat Kabir 
+2016-04-16 00:10:14,941 INFO  [devpinoyLogger] Friend Name 96) is: Zia Khan 
+2016-04-16 00:10:14,957 INFO  [devpinoyLogger] Friend Name 97) is: Shafqat Ali 
+2016-04-16 00:10:14,973 INFO  [devpinoyLogger] Friend Name 98) is: Rahbar Ahmed 
+2016-04-16 00:10:14,990 INFO  [devpinoyLogger] Friend Name 99) is: Nahin Kabir 
+2016-04-16 00:10:15,006 INFO  [devpinoyLogger] Friend Name 100) is: Shegufta Ferdousi 
+2016-04-16 00:10:15,022 INFO  [devpinoyLogger] Friend Name 101) is: Nasrin Kabir 
+2016-04-16 00:10:15,043 INFO  [devpinoyLogger] Friend Name 102) is: M Shah Azad Ali 
+2016-04-16 00:10:15,060 INFO  [devpinoyLogger] Friend Name 103) is: Nargis Akter 
+2016-04-16 00:10:15,078 INFO  [devpinoyLogger] Friend Name 104) is: Moazzem Sarker 
+2016-04-16 00:10:15,101 INFO  [devpinoyLogger] Friend Name 105) is: Sajjad Ali 
+2016-04-16 00:10:15,121 INFO  [devpinoyLogger] Friend Name 106) is: Fadiya Chowdhury 
+2016-04-16 00:10:15,141 INFO  [devpinoyLogger] Friend Name 107) is: Saika Parveen 
+2016-04-16 00:10:15,160 INFO  [devpinoyLogger] Friend Name 108) is: Sadiqul Islam 
+2016-04-16 00:10:15,179 INFO  [devpinoyLogger] Friend Name 109) is: Shakiba Ali 
+2016-04-16 00:10:15,196 INFO  [devpinoyLogger] Friend Name 110) is: Ankur Patel 
+2016-04-16 00:10:15,210 INFO  [devpinoyLogger] Friend Name 111) is: MD Salam 
+2016-04-16 00:10:15,225 INFO  [devpinoyLogger] Friend Name 112) is: Shakila Shihab Nabi 
+2016-04-16 00:10:15,241 INFO  [devpinoyLogger] Friend Name 113) is: Mohammed Haque 
+2016-04-16 00:10:15,262 INFO  [devpinoyLogger] Friend Name 114) is: Zeanat Parven 
+2016-04-16 00:10:15,280 INFO  [devpinoyLogger] Friend Name 115) is: Abrar Daiyan 
+2016-04-16 00:10:15,297 INFO  [devpinoyLogger] Friend Name 116) is: Farida Khanam 
+2016-04-16 00:10:15,315 INFO  [devpinoyLogger] Friend Name 117) is: Abid Ali 
+2016-04-16 00:10:15,334 INFO  [devpinoyLogger] Friend Name 118) is: Md.Enamul Karim Khan 
+2016-04-16 00:10:15,356 INFO  [devpinoyLogger] Friend Name 119) is: Karim Iqbal Nouman 
+2016-04-16 00:10:15,377 INFO  [devpinoyLogger] Friend Name 120) is: Fatima Kaneez 
+2016-04-16 00:10:15,397 INFO  [devpinoyLogger] Friend Name 121) is: Mohammed Masudur Rahman 
+2016-04-16 00:10:15,416 INFO  [devpinoyLogger] Friend Name 122) is: Stephen Mathew 
+2016-04-16 00:10:15,432 INFO  [devpinoyLogger] Friend Name 123) is: Akm M Rashid 
+2016-04-16 00:10:15,451 INFO  [devpinoyLogger] Friend Name 124) is: Salma El Shafei 
+2016-04-16 00:10:15,470 INFO  [devpinoyLogger] Friend Name 125) is: Nazmul Haque Rpmc 
+2016-04-16 00:10:15,489 INFO  [devpinoyLogger] Friend Name 126) is: Rimi Afroze 
+2016-04-16 00:10:15,507 INFO  [devpinoyLogger] Friend Name 127) is: Nimish Patel 
+2016-04-16 00:10:15,529 INFO  [devpinoyLogger] Friend Name 128) is: Syeda Nahar 
+2016-04-16 00:10:15,548 INFO  [devpinoyLogger] Friend Name 129) is: Basharat Ali 
+2016-04-16 00:10:15,566 INFO  [devpinoyLogger] Friend Name 130) is: Patrick Babatunde 
+2016-04-16 00:10:15,581 INFO  [devpinoyLogger] Friend Name 131) is: Mohammed Alam 
+2016-04-16 00:10:15,600 INFO  [devpinoyLogger] Friend Name 132) is: Setu Chowdhury 
+2016-04-16 00:10:15,619 INFO  [devpinoyLogger] Friend Name 133) is: Rejwana Rahman 
+2016-04-16 00:10:15,639 INFO  [devpinoyLogger] Friend Name 134) is: Land Angel Annanna 
+2016-04-16 00:10:15,655 INFO  [devpinoyLogger] Friend Name 135) is: Sadman Rahman 
+2016-04-16 00:10:15,670 INFO  [devpinoyLogger] Friend Name 136) is: Mayesha Tasnim Haque 
+2016-04-16 00:10:15,686 INFO  [devpinoyLogger] Friend Name 137) is: Radia Rahman 
+2016-04-16 00:10:15,703 INFO  [devpinoyLogger] Friend Name 138) is: Munni Munni 
+2016-04-16 00:10:15,720 INFO  [devpinoyLogger] Friend Name 139) is: Modina Begum 
+2016-04-16 00:10:15,722 INFO  [devpinoyLogger] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-04-16 00:10:15,722 INFO  [devpinoyLogger] X 
+2016-04-16 00:10:15,722 INFO  [devpinoyLogger] X 
+2016-04-16 00:10:15,722 INFO  [devpinoyLogger] X 
+2016-04-16 00:10:15,722 INFO  [devpinoyLogger] X 
+2016-04-16 00:36:51,973 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:36:52,083 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:36:52,083 INFO  [devpinoyLogger] $$$$$$$$$$$$$$$$$$$$$                 AmericanGolfPutterSum VerificationTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-16 00:36:52,084 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:36:52,084 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:39:03,738 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:39:03,739 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:39:03,739 INFO  [devpinoyLogger] $$$$$$$$$$$$$$$$$$$$$                 AmericanGolfPutterSum VerificationTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-16 00:39:03,740 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:39:03,740 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:41:47,517 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:41:47,564 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:41:47,565 INFO  [devpinoyLogger] $$$$$$$$$$$$$$$$$$$$$                 AmericanGolfPutterSum VerificationTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-16 00:41:47,565 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:41:47,565 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:41:47,883 INFO  [devpinoyLogger] Initializing  CONFIG.prperties file 
+2016-04-16 00:41:47,886 INFO  [devpinoyLogger] Initializing OR.prperties file 
+2016-04-16 00:41:47,927 INFO  [devpinoyLogger] Openning Firefox Browser Mozilla 
+2016-04-16 00:41:58,209 INFO  [devpinoyLogger] Navigating to url: http://www.americangolf.co.uk/golf-clubs/putters 
+2016-04-16 00:42:10,568 INFO  [devpinoyLogger] Putters - Golf Clubs - american golf 
+2016-04-16 00:42:13,737 INFO  [devpinoyLogger] No of putter count found is 10 
+2016-04-16 00:42:13,770 INFO  [devpinoyLogger] The No of putter for brand :  is 47 
+2016-04-16 00:42:13,788 INFO  [devpinoyLogger] The No of putter for brand :  is 21 
+2016-04-16 00:42:13,803 INFO  [devpinoyLogger] The No of putter for brand :  is 15 
+2016-04-16 00:42:13,820 INFO  [devpinoyLogger] The No of putter for brand :  is 11 
+2016-04-16 00:42:13,837 INFO  [devpinoyLogger] The No of putter for brand :  is 8 
+2016-04-16 00:42:13,852 INFO  [devpinoyLogger] The No of putter for brand :  is 4 
+2016-04-16 00:42:13,868 INFO  [devpinoyLogger] The No of putter for brand :  is 4 
+2016-04-16 00:42:13,885 INFO  [devpinoyLogger] The No of putter for brand :  is 4 
+2016-04-16 00:42:13,903 INFO  [devpinoyLogger] The No of putter for brand :  is 1 
+2016-04-16 00:42:13,921 INFO  [devpinoyLogger] The No of putter for brand :  is 1 
+2016-04-16 00:42:13,921 INFO  [devpinoyLogger] Sum of all Putter is: 116 
+2016-04-16 00:42:13,983 INFO  [devpinoyLogger] Actual total num of Putter from app : 116 
+2016-04-16 00:42:14,024 INFO  [devpinoyLogger] Assertion pass since actual 116 is matching with expected : 116 
+2016-04-16 00:42:14,028 INFO  [devpinoyLogger] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-04-16 00:42:14,028 INFO  [devpinoyLogger] X 
+2016-04-16 00:42:14,028 INFO  [devpinoyLogger] X 
+2016-04-16 00:42:14,028 INFO  [devpinoyLogger] X 
+2016-04-16 00:42:14,028 INFO  [devpinoyLogger] X 
+2016-04-16 00:47:45,708 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:47:45,710 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:47:45,710 INFO  [devpinoyLogger] $$$$$$$$$$$$$$$$$$$$$                 FaceBookFriends List       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-16 00:47:45,710 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:47:45,710 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:53:17,813 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:53:17,814 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:53:17,814 INFO  [devpinoyLogger] $$$$$$$$$$$$$$$$$$$$$                 FaceBookFriends List       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-16 00:53:17,814 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:53:17,814 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 00:53:17,814 INFO  [devpinoyLogger] Opening the browser: Mozilla 
+2016-04-16 01:06:15,035 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 01:06:15,068 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 01:06:15,068 INFO  [devpinoyLogger] $$$$$$$$$$$$$$$$$$$$$                 AmericanGolfPutterSum VerificationTest       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2016-04-16 01:06:15,068 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 01:06:15,068 INFO  [devpinoyLogger] **************************************************************************************** 
+2016-04-16 01:06:15,068 INFO  [devpinoyLogger] Initializing  CONFIG.prperties file 
+2016-04-16 01:06:15,069 INFO  [devpinoyLogger] Initializing OR.prperties file 
+2016-04-16 01:06:15,070 INFO  [devpinoyLogger] Openning Firefox Browser Mozilla 
+2016-04-16 01:06:28,447 INFO  [devpinoyLogger] Navigating to url: http://www.americangolf.co.uk/golf-clubs/putters 
+2016-04-16 01:07:32,191 INFO  [devpinoyLogger] Putters - Golf Clubs - american golf 
+2016-04-16 01:07:35,441 INFO  [devpinoyLogger] No of putter count found is 10 
+2016-04-16 01:07:35,507 INFO  [devpinoyLogger] The No of putter for brand :  is 47 
+2016-04-16 01:07:35,525 INFO  [devpinoyLogger] The No of putter for brand :  is 21 
+2016-04-16 01:07:35,543 INFO  [devpinoyLogger] The No of putter for brand :  is 15 
+2016-04-16 01:07:35,562 INFO  [devpinoyLogger] The No of putter for brand :  is 11 
+2016-04-16 01:07:35,580 INFO  [devpinoyLogger] The No of putter for brand :  is 8 
+2016-04-16 01:07:35,599 INFO  [devpinoyLogger] The No of putter for brand :  is 4 
+2016-04-16 01:07:35,633 INFO  [devpinoyLogger] The No of putter for brand :  is 4 
+2016-04-16 01:07:35,652 INFO  [devpinoyLogger] The No of putter for brand :  is 4 
+2016-04-16 01:07:35,672 INFO  [devpinoyLogger] The No of putter for brand :  is 1 
+2016-04-16 01:07:35,689 INFO  [devpinoyLogger] The No of putter for brand :  is 1 
+2016-04-16 01:07:35,689 INFO  [devpinoyLogger] Sum of all Putter is: 116 
+2016-04-16 01:07:35,745 INFO  [devpinoyLogger] Actual total num of Putter from app : 116 
+2016-04-16 01:07:35,748 INFO  [devpinoyLogger] Assertion pass since actual 116 is matching with expected : 116 
+2016-04-16 01:07:35,749 INFO  [devpinoyLogger] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2016-04-16 01:07:35,749 INFO  [devpinoyLogger] X 
+2016-04-16 01:07:35,749 INFO  [devpinoyLogger] X 
+2016-04-16 01:07:35,749 INFO  [devpinoyLogger] X 
+2016-04-16 01:07:35,749 INFO  [devpinoyLogger] X 

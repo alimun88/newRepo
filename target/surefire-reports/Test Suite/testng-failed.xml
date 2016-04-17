@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Test Suite]">
+  <test name="Facebook Friends(failed)">
+    <classes>
+      <class name="com.alimun.keywordframework.FaceBookFriends">
+        <methods>
+          <include name="faceBook_FriendList"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- com.alimun.keywordframework.FaceBookFriends -->
+    </classes>
+  </test> <!-- Facebook Friends(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->
